@@ -1,0 +1,781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59FBF6C0-22ED-4289-B06B-244F04666574}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>amlak</RootNamespace>
+    <AssemblyName>amlak</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AmlakDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet7.Designer.cs">
+      <DependentUpon>AmlakDataSet7.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="AmlakDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AmlakDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AmlakDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="apartementejareiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apartementejareiform.Designer.cs">
+      <DependentUpon>apartementejareiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="apartementforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apartementforoshiform.Designer.cs">
+      <DependentUpon>apartementforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="apartementmelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apartementmelkform.Designer.cs">
+      <DependentUpon>apartementmelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="apartementrahniform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apartementrahniform.Designer.cs">
+      <DependentUpon>apartementrahniform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="foroshandeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="foroshandeform.Designer.cs">
+      <DependentUpon>foroshandeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kharidarform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kharidarform.Designer.cs">
+      <DependentUpon>kharidarform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginform.Designer.cs">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.cs">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newapartementejarei.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newapartementejarei.Designer.cs">
+      <DependentUpon>newapartementejarei.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newapartementforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newapartementforoshiform.Designer.cs">
+      <DependentUpon>newapartementforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newapartementmelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newapartementmelkform.Designer.cs">
+      <DependentUpon>newapartementmelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newapartementrahniform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newapartementrahniform.Designer.cs">
+      <DependentUpon>newapartementrahniform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newforoshandeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newforoshandeform.Designer.cs">
+      <DependentUpon>newforoshandeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newkharidarform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newkharidarform.Designer.cs">
+      <DependentUpon>newkharidarform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newstoreejareiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newstoreejareiform.Designer.cs">
+      <DependentUpon>newstoreejareiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newstoreforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newstoreforoshiform.Designer.cs">
+      <DependentUpon>newstoreforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newstoremelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newstoremelkform.Designer.cs">
+      <DependentUpon>newstoremelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newstorerahniform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newstorerahniform.Designer.cs">
+      <DependentUpon>newstorerahniform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newvilaforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newvilaforoshiform.Designer.cs">
+      <DependentUpon>newvilaforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newvilaiejareiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newvilaiejareiform.Designer.cs">
+      <DependentUpon>newvilaiejareiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newvilairahniform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newvilairahniform.Designer.cs">
+      <DependentUpon>newvilairahniform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newvilamelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newvilamelkform.Designer.cs">
+      <DependentUpon>newvilamelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newzaminforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newzaminforoshiform.Designer.cs">
+      <DependentUpon>newzaminforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newzaminmelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newzaminmelkform.Designer.cs">
+      <DependentUpon>newzaminmelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="apartementejareiform.resx">
+      <DependentUpon>apartementejareiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="apartementforoshiform.resx">
+      <DependentUpon>apartementforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="apartementmelkform.resx">
+      <DependentUpon>apartementmelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="apartementrahniform.resx">
+      <DependentUpon>apartementrahniform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="foroshandeform.resx">
+      <DependentUpon>foroshandeform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kharidarform.resx">
+      <DependentUpon>kharidarform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginform.resx">
+      <DependentUpon>loginform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newapartementejarei.resx">
+      <DependentUpon>newapartementejarei.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newapartementforoshiform.resx">
+      <DependentUpon>newapartementforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newapartementmelkform.resx">
+      <DependentUpon>newapartementmelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newapartementrahniform.resx">
+      <DependentUpon>newapartementrahniform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newforoshandeform.resx">
+      <DependentUpon>newforoshandeform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newkharidarform.resx">
+      <DependentUpon>newkharidarform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newstoreejareiform.resx">
+      <DependentUpon>newstoreejareiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newstoreforoshiform.resx">
+      <DependentUpon>newstoreforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newstoremelkform.resx">
+      <DependentUpon>newstoremelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newstorerahniform.resx">
+      <DependentUpon>newstorerahniform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newvilaforoshiform.resx">
+      <DependentUpon>newvilaforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newvilaiejareiform.resx">
+      <DependentUpon>newvilaiejareiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newvilairahniform.resx">
+      <DependentUpon>newvilairahniform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newvilamelkform.resx">
+      <DependentUpon>newvilamelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newzaminforoshiform.resx">
+      <DependentUpon>newzaminforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newzaminmelkform.resx">
+      <DependentUpon>newzaminmelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchaparteman.resx">
+      <DependentUpon>searchaparteman.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchforoshande.resx">
+      <DependentUpon>searchforoshande.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchkharidar.resx">
+      <DependentUpon>searchkharidar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchmaghaze.resx">
+      <DependentUpon>searchmaghaze.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchvilla.resx">
+      <DependentUpon>searchvilla.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchzamin.resx">
+      <DependentUpon>searchzamin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storeejareiform.resx">
+      <DependentUpon>storeejareiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storeforoshiform.resx">
+      <DependentUpon>storeforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storemelkform.resx">
+      <DependentUpon>storemelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storerahniform.resx">
+      <DependentUpon>storerahniform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vilaejareiform.resx">
+      <DependentUpon>vilaejareiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vilaforoshiform.resx">
+      <DependentUpon>vilaforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vilairahniform.resx">
+      <DependentUpon>vilairahniform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vilamelkform.resx">
+      <DependentUpon>vilamelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="we.resx">
+      <DependentUpon>we.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zaminforoshiform.resx">
+      <DependentUpon>zaminforoshiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zaminmelkform.resx">
+      <DependentUpon>zaminmelkform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="AmlakDataSet.xsc">
+      <DependentUpon>AmlakDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AmlakDataSet.xss">
+      <DependentUpon>AmlakDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet1.xsc">
+      <DependentUpon>AmlakDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet1.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet1.xss">
+      <DependentUpon>AmlakDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet10.xsc">
+      <DependentUpon>AmlakDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet10.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet10.xss">
+      <DependentUpon>AmlakDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet11.xsc">
+      <DependentUpon>AmlakDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet11.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet11.xss">
+      <DependentUpon>AmlakDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet12.xsc">
+      <DependentUpon>AmlakDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet12.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet12.xss">
+      <DependentUpon>AmlakDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet13.xsc">
+      <DependentUpon>AmlakDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet13.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet13.xss">
+      <DependentUpon>AmlakDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet14.xsc">
+      <DependentUpon>AmlakDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet14.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet14.xss">
+      <DependentUpon>AmlakDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet15.xsc">
+      <DependentUpon>AmlakDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet15.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet15.xss">
+      <DependentUpon>AmlakDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet16.xsc">
+      <DependentUpon>AmlakDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AmlakDataSet16.xss">
+      <DependentUpon>AmlakDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet2.xsc">
+      <DependentUpon>AmlakDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet2.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet2.xss">
+      <DependentUpon>AmlakDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet3.xsc">
+      <DependentUpon>AmlakDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet3.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet3.xss">
+      <DependentUpon>AmlakDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet4.xsc">
+      <DependentUpon>AmlakDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AmlakDataSet4.xss">
+      <DependentUpon>AmlakDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet5.xsc">
+      <DependentUpon>AmlakDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet5.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet5.xss">
+      <DependentUpon>AmlakDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet6.xsc">
+      <DependentUpon>AmlakDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet6.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet6.xss">
+      <DependentUpon>AmlakDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet7.xsc">
+      <DependentUpon>AmlakDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet7.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="AmlakDataSet7.xss">
+      <DependentUpon>AmlakDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet8.xsc">
+      <DependentUpon>AmlakDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet8.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet8.xss">
+      <DependentUpon>AmlakDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet9.xsc">
+      <DependentUpon>AmlakDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="AmlakDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AmlakDataSet9.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="AmlakDataSet9.xss">
+      <DependentUpon>AmlakDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="searchaparteman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchaparteman.Designer.cs">
+      <DependentUpon>searchaparteman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchforoshande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchforoshande.Designer.cs">
+      <DependentUpon>searchforoshande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchkharidar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchkharidar.Designer.cs">
+      <DependentUpon>searchkharidar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchmaghaze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchmaghaze.Designer.cs">
+      <DependentUpon>searchmaghaze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchvilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchvilla.Designer.cs">
+      <DependentUpon>searchvilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="storeejareiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storeejareiform.Designer.cs">
+      <DependentUpon>storeejareiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="storeforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storeforoshiform.Designer.cs">
+      <DependentUpon>storeforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="storemelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storemelkform.Designer.cs">
+      <DependentUpon>storemelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="storerahniform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storerahniform.Designer.cs">
+      <DependentUpon>storerahniform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vilaejareiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vilaejareiform.Designer.cs">
+      <DependentUpon>vilaejareiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vilaforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vilaforoshiform.Designer.cs">
+      <DependentUpon>vilaforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vilairahniform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vilairahniform.Designer.cs">
+      <DependentUpon>vilairahniform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vilamelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vilamelkform.Designer.cs">
+      <DependentUpon>vilamelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="we.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="we.Designer.cs">
+      <DependentUpon>we.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zaminforoshiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zaminforoshiform.Designer.cs">
+      <DependentUpon>zaminforoshiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zaminmelkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zaminmelkform.Designer.cs">
+      <DependentUpon>zaminmelkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchzamin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchzamin.Designer.cs">
+      <DependentUpon>searchzamin.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

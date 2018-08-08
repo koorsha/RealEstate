@@ -1,0 +1,237 @@
+E:\amlak\amlak\bin\Debug\amlak.exe
+E:\amlak\amlak\bin\Debug\amlak.pdb
+E:\amlak\amlak\obj\Debug\ResolveAssemblyReference.cache
+E:\amlak\amlak\obj\Debug\amlak.loginform.resources
+E:\amlak\amlak\obj\Debug\amlak.Properties.Resources.resources
+E:\amlak\amlak\obj\Debug\amlak.csproj.GenerateResource.Cache
+E:\amlak\amlak\obj\Debug\amlak.exe
+E:\amlak\amlak\obj\Debug\amlak.pdb
+E:\amlak\amlak\obj\Debug\amlak.mainform.resources
+E:\amlak\amlak\obj\Debug\amlak.foroshandeform.resources
+E:\amlak\amlak\obj\Debug\amlak.newforoshandeform.resources
+E:\amlak\amlak\obj\Debug\amlak.kharidarform.resources
+E:\amlak\amlak\obj\Debug\amlak.newkharidarform.resources
+E:\amlak\amlak\obj\Debug\amlak.modirform.resources
+E:\amlak\amlak\obj\Debug\amlak.apartementejareiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newapartementejareiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newstoreejareiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newvilaiejareiform.resources
+E:\amlak\amlak\obj\Debug\amlak.storeejareiform.resources
+E:\amlak\amlak\obj\Debug\amlak.vilaejareiform.resources
+E:\amlak\amlak\obj\Debug\amlak.apartementrahniform.resources
+E:\amlak\amlak\obj\Debug\amlak.storerahniform.resources
+E:\amlak\amlak\obj\Debug\amlak.vilairahniform.resources
+E:\amlak\amlak\obj\Debug\amlak.apartementforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newapartementrahniform.resources
+E:\amlak\amlak\obj\Debug\amlak.newstorerahniform.resources
+E:\amlak\amlak\obj\Debug\amlak.newvilairahniform.resources
+E:\amlak\amlak\obj\Debug\amlak.storeforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.vilaforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.zaminforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newapartementforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newstoreforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newvilaforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.newzaminforoshiform.resources
+E:\amlak\amlak\obj\Debug\amlak.apartementmelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.storemelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.vilamelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.zaminmelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.newapartementmelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.newvilamelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.newzaminmelkform.resources
+E:\amlak\amlak\obj\Debug\amlak.newstoremelkform.resources
+C:\Documents and Settings\m\Desktop\amlak\amlak\obj\Debug\amlak.exe
+C:\Documents and Settings\m\Desktop\amlak\amlak\obj\Debug\amlak.pdb
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.exe
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.pdb
+E:\poroje c#\poroje\amlak\amlak\bin\Debug\amlak.exe
+E:\poroje c#\poroje\amlak\amlak\bin\Debug\amlak.pdb
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\ResolveAssemblyReference.cache
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.apartementejareiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.apartementforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.apartementmelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.apartementrahniform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.foroshandeform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.kharidarform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.loginform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.mainform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.modirform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newapartementforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newapartementmelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newapartementrahniform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newforoshandeform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newkharidarform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newstoreejareiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newstoreforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newstoremelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newstorerahniform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newvilaforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newvilaiejareiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newvilairahniform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newvilamelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newzaminforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newzaminmelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.Properties.Resources.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.storeejareiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.storeforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.storemelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.storerahniform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.vilaejareiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.vilaforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.vilairahniform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.vilamelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.zaminforoshiform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.zaminmelkform.resources
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.csproj.GenerateResource.Cache
+E:\poroje c#\poroje\amlak\amlak\obj\Debug\amlak.newapartementejarei.resources
+E:\poroje c#\poroje\amlak\amlak\bin\Debug\amlak.exe.config
+E:\poroje c#\poroje\amlak\bin\Debug\amlak.exe.config
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.exe
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.pdb
+E:\poroje c#\poroje\amlak\bin\Debug\amlak.exe
+E:\poroje c#\poroje\amlak\bin\Debug\amlak.pdb
+E:\poroje c#\poroje\amlak\obj\Debug\ResolveAssemblyReference.cache
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.apartementejareiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.apartementforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.apartementmelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.apartementrahniform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.foroshandeform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.kharidarform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.loginform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.mainform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newapartementejarei.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newapartementforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newapartementmelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newapartementrahniform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newforoshandeform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newkharidarform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newstoreejareiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newstoreforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newstoremelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newstorerahniform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newvilaforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newvilaiejareiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newvilairahniform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newvilamelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newzaminforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.newzaminmelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.Properties.Resources.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.storeejareiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.storeforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.storemelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.storerahniform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.vilaejareiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.vilaforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.vilairahniform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.vilamelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.zaminforoshiform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.zaminmelkform.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.csproj.GenerateResource.Cache
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.searchaparteman.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.searchforoshande.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.searchkharidar.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.searchmaghaze.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.searchvilla.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.searchzamin.resources
+E:\poroje c#\poroje\amlak\obj\Debug\amlak.we.resources
+F:\Amlak\poroje\amlak\bin\Debug\amlak.exe.config
+F:\Amlak\poroje\amlak\obj\Debug\amlak.exe
+F:\Amlak\poroje\amlak\obj\Debug\amlak.pdb
+E:\poroje c#\Amlak\poroje\amlak\bin\Debug\amlak.exe.config
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.exe
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.pdb
+E:\poroje c#\Amlak\poroje\amlak\bin\Debug\amlak.exe
+E:\poroje c#\Amlak\poroje\amlak\bin\Debug\amlak.pdb
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\ResolveAssemblyReference.cache
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.apartementejareiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.apartementforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.apartementmelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.apartementrahniform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.foroshandeform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.kharidarform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.loginform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.mainform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newapartementejarei.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newapartementforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newapartementmelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newapartementrahniform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newforoshandeform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newkharidarform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newstoreejareiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newstoreforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newstoremelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newstorerahniform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newvilaforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newvilaiejareiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newvilairahniform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newvilamelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newzaminforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.newzaminmelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.Properties.Resources.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.searchaparteman.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.searchforoshande.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.searchkharidar.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.searchmaghaze.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.searchvilla.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.searchzamin.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.storeejareiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.storeforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.storemelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.storerahniform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.vilaejareiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.vilaforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.vilairahniform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.vilamelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.we.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.zaminforoshiform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.zaminmelkform.resources
+E:\poroje c#\Amlak\poroje\amlak\obj\Debug\amlak.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\bin\Debug\amlak.exe.config
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.exe
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.pdb
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\bin\Debug\amlak.exe
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.apartementejareiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.apartementforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.apartementmelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.apartementrahniform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.foroshandeform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.kharidarform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.loginform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.mainform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newapartementejarei.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newapartementforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newapartementmelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newapartementrahniform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newforoshandeform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newkharidarform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newstoreejareiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newstoreforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newstoremelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newstorerahniform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newvilaforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newvilaiejareiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newvilairahniform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newvilamelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newzaminforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.newzaminmelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.Properties.Resources.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.searchaparteman.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.searchforoshande.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.searchkharidar.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.searchmaghaze.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.searchvilla.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.searchzamin.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.storeejareiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.storeforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.storemelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.storerahniform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.vilaejareiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.vilaforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.vilairahniform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.vilamelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.we.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.zaminforoshiform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.zaminmelkform.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\obj\Debug\amlak.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mahdi Majd\Desktop\New Folder\Amlak\poroje\amlak\bin\Debug\amlak.pdb
